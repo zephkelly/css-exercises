@@ -87,6 +87,6 @@ button.cancel {
   margin-bottom: 8px;
 }
 
-.text {
-  margin-bottom: 16px;
+.modal .text-container .header {
+  padding-bottom: 16px;
 }
